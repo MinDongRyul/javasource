@@ -29,5 +29,4 @@ public class EmpDTO {
 	private int sal;
 	private int comm;
 	private int deptno;
-
 }
