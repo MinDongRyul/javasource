@@ -9,7 +9,11 @@ public class Api {
 	*/
 
 	
-	String str = "";
+	String str = "abc";
 	Scanner sc = new Scanner(System.in);
+	
+	
+	
+	
 	
 }
