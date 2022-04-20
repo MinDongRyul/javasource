@@ -16,7 +16,7 @@
 	//request영역에 결과 값 담기
 	request.setAttribute("dto", dto);
 	
-	//페이지 이동(★) : 
+	//페이지 이동 : 
 	//sendRedirect() - scope(request, session)에 값을 담지 않았거나, session에 값을 담는 경우 
 	//forward() - request.setAttribute() 하면 무조건 forward방식으로 이동
 	pageContext.forward("read.jsp");
